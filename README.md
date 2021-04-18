@@ -1,3 +1,16 @@
+# tutorial reference
+
+https://www.youtube.com/watch?v=vpq2FxNzgd4&ab_channel=CodeFirst
+
+# API used
+
+https://openweathermap.org/current
+go to openweathermap.org for more details 
+
+#Using font Awesome icons in Angular Project
+
+download FontAwesome ZIP > extract > paste all.js or all.min.js in script[] in angular.json
+
 # WeatherWidgetAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
