@@ -1,3 +1,6 @@
+# UI
+![alt text](https://raw.githubusercontent.com/SayaliChinchole/weather-widget-angular/main/src/assets/images/weatherWidget.png)
+
 # Tutorial reference
 
 https://www.youtube.com/watch?v=vpq2FxNzgd4&ab_channel=CodeFirst
